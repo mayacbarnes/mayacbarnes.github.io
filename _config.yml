@@ -1,6 +1,8 @@
 # sourced from jekyll default config https://jekyllrb.com/docs/configuration/default/
 
 # Where things are
+theme: jekyll-theme-freelancer
+  title: Maya Barnes
 source              : .
 destination         : ./_site
 collections_dir     : .
