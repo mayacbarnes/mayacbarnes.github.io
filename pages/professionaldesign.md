@@ -2,8 +2,8 @@
 
 desc
 
-![Shout](https://mayacbarnes.github.io/assets/images/shout.jpg)
-
+![Brochure](https://mayacbarnes.github.io/assets/images/hyperloop1.jpg)
+![Brochure](https://mayacbarnes.github.io/assets/images/hyperloop2.jpg)
 ---
 
 ## How To Be Perfect - Zine Excerpts
