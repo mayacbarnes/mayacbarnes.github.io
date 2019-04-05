@@ -2,7 +2,7 @@
 
 ## Forbidden Fruit
 
-desc
+Wood, Basketweaving, Concept: Maya Barnes
 
 ![Fruit](https://mayacbarnes.github.io/assets/images/ForbiddenFruit.jpg)
 
@@ -10,21 +10,22 @@ desc
 
 ## Self Portrait Bust
 
-desc
+Paper-Mache, Acrylic, Concept: Maya Barnes
 
 ![bust](https://mayacbarnes.github.io/assets/images/bust.jpg)
 
 ---
 ## Bound - Wearable
 
-desc
+Cotton, Plastic, Yarn, Hot Glue.
+Wearble 2 Person Piece, Concept: Maya Barnes
 
 ![zine](https://mayacbarnes.github.io/assets/images/bound.jpg)
 
 ---
 ## Sunshine
 
-desc
+Self Portrait on Vinyl, Concept: Maya Barnes
 
 ![sun](https://mayacbarnes.github.io/assets/images/DrawingFinalproj.jpg)
 

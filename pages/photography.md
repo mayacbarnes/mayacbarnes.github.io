@@ -1,7 +1,8 @@
 # PHOTOGRAPHY
 ## Skin
 
-desc
+Photographer: Maya Barnes
+Model: Catherine Barnes
 
 ![Skin](https://mayacbarnes.github.io/assets/images/mom.jpg)
 
@@ -9,6 +10,7 @@ desc
 
 ## Warhol
 
-desc
+Photographer, Edit: Maya Barnes
+Model: Will Cochran
 
 ![Warhol](https://mayacbarnes.github.io/assets/images/will.jpg)

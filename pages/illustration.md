@@ -2,7 +2,7 @@
 
 ## Self Portrait
 
-desc
+Painting, Concept: Maya Barnes
 
 ![selfportait](https://mayacbarnes.github.io/assets/images/self.jpeg)
 
@@ -10,7 +10,7 @@ desc
 
 ## Untitled Line Study
 
-desc
+Ink: Maya Barnes
 
 ![Lines](https://mayacbarnes.github.io/assets/images/swirlies.jpg)
 
@@ -18,7 +18,7 @@ desc
 
 ## Grid
 
-desc
+Ink: Maya Barnes
 
 ![Grid](https://mayacbarnes.github.io/assets/images/Grid.jpg)
 
@@ -26,7 +26,7 @@ desc
 
 ## Little Sisters
 
-desc
+Graphite and Charcoal: Maya Barnes
 
 ![Sisters](https://mayacbarnes.github.io/assets/images/india.jpg)
 
@@ -34,7 +34,7 @@ desc
 
 ## Sacred Geometry Print
 
-desc
+Lino Print: Maya Barnes
 
 ![geoeye](https://mayacbarnes.github.io/assets/images/geoeye.jpg)
 
@@ -42,7 +42,7 @@ desc
 
 ## Tim - Figure Study
 
-desc
+Graphite: Maya Barnes
 
 ![Tim](https://mayacbarnes.github.io/assets/images/Tim.jpg)
 
@@ -50,7 +50,7 @@ desc
 
 ## Women
 
-desc
+Acrylic: Maya Barnes
 
 ![Women](https://mayacbarnes.github.io/assets/images/women.jpg)
 

@@ -1,30 +1,33 @@
 # ANIMATION
 ## Untitled-Stop Motion
 
-description
+Video, Sound Design, Concept: Maya Barnes
 
 [![Stop Motion](http://img.youtube.com/vi/9GH4bG9JeW0/0.jpg)](http://www.youtube.com/watch?v=9GH4bG9JeW0)
 
 ---
 
 ## I Am Waiting
+
+Animation, Audio, Concept: Maya Barnes
+Poem by Lawrence Ferlinghetti, read by Maya Barnes
 [![I Am Waiting](http://img.youtube.com/vi/c6vN9_xQ4l4/0.jpg)](http://www.youtube.com/watch?v=c6vN9_xQ4l4)
 
 ---
 
 ## Dissolve Me - Remix
 
-description:
-
-I want to write a lot
-
+2D Animation, Editing, Audio Remix, Concept: Maya Barnes
+Created using found footage and AfterEffects
+Original Audio: Dissolve Me - Alt-J
 [![Dissolve Me - Remix](http://img.youtube.com/vi/05tuju5Sa50/0.jpg)](http://www.youtube.com/watch?v=05tuju5Sa50)
 
 ---
 
 ## The Life Cycle of Tea
 
-description
+Stop Motion, Sound Design, Concept: Maya Barnes
+Original Audio: Alan Watts
 
 [![The Life Cycle of Tea](http://img.youtube.com/vi/XCxFuypxO4Y/0.jpg)](http://www.youtube.com/watch?v=XCxFuypxO4Y)
 
@@ -32,7 +35,7 @@ description
 
 ## Short and Sweet Tweetums
 
-description
+2D Animation, Concept: Maya Barnes
 
 [![Short and Sweet Tweetums](http://img.youtube.com/vi/ZfCNOny9mME/0.jpg)](http://www.youtube.com/watch?v=ZfCNOny9mME)
 
@@ -40,7 +43,8 @@ description
 
 ## Classique
 
-description
+Animation, Concept: Maya Barnes
+Created using appropriated footage, Animated in AfterEffects.
 
 [![Classique](http://img.youtube.com/vi/2T-MKKwH150/0.jpg)](http://www.youtube.com/watch?v=2T-MKKwH150)
 
@@ -48,7 +52,8 @@ description
 
 ## Wacky Walk Cycle
 
-description
+Animation, Concept, Sound Design: Maya Barnes
+
 
 [![Wacky Walk Cycle](http://img.youtube.com/vi/gPAT-gi0abs/0.jpg)](http://www.youtube.com/watch?v=gPAT-gi0abs)
 
@@ -56,7 +61,8 @@ description
 
 ## Time Lapse
 
-description
+Animation, Concept: Maya Barnes
+Created over the course of a semester, taking one photo a day.
 
 [![Time Lapse](http://img.youtube.com/vi/0fEkQxtIKUw/0.jpg)](http://www.youtube.com/watch?v=0fEkQxtIKUw)
 
@@ -64,7 +70,7 @@ description
 
 ## Bee
 
-description
+Animation, Concept: Maya Barnes
 
 [![Bee Animation](http://img.youtube.com/vi/3UEB2btxW9I/0.jpg)](http://www.youtube.com/watch?v=3UEB2btxW9I)
 
@@ -72,6 +78,6 @@ description
 
 ## Bouncing Ball
 
-description
+Animation: Maya Barnes
 
 [![Bouncing Ball](http://img.youtube.com/vi/rBmZsRlSM_A/0.jpg)](http://www.youtube.com/watch?v=rBmZsRlSM_A)

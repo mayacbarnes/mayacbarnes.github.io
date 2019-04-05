@@ -1,3 +1,5 @@
+Processing Sketches: Maya Barnes
+
 [SoundWave](https://mayacbarnes.github.io/processing/soundwave.html)
 
 ---

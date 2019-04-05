@@ -1,7 +1,8 @@
 # PROFESSIONAL DESIGN
 ## Hyperloop Brochure
 
-desc
+Brochure for VCUengineering's HyperLoop Team.
+Graphic Design: Maya Barnes
 
 ![Brochure](https://mayacbarnes.github.io/assets/images/hl1.jpg)
 ![Brochure](https://mayacbarnes.github.io/assets/images/hl2.jpg)
@@ -10,7 +11,8 @@ desc
 
 ## How To Be Perfect - Zine Excerpts
 
-desc
+Excerpts from a larger zine, displayed in Forbidden Fruit Sculpture Piece.
+Zine, Drawings, Poem, and Photographs: Maya Barnes
 
 ![zine](https://mayacbarnes.github.io/assets/images/zine.jpg)
 
@@ -18,7 +20,9 @@ desc
 
 ## National Anthem Cover Art
 
-desc
+Cover art for The Bruises
+Design: Maya Barnes
+Photograph: CC
 
 ![anthem](https://mayacbarnes.github.io/assets/images/nationaljoe.jpg)
 
