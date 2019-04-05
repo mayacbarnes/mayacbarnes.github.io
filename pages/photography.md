@@ -2,7 +2,7 @@
 
 desc
 
-![Skin](mayacbarnes.github.io/assets/images/mom.jpg)
+![Skin](https://mayacbarnes.github.io/assets/images/mom.jpg)
 
 ---
 
@@ -10,4 +10,4 @@ desc
 
 desc
 
-![Warhol](mayacbarnes.github.io/assets/images/will.jpg)
+![Warhol](https://mayacbarnes.github.io/assets/images/will.jpg)
