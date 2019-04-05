@@ -1,4 +1,4 @@
-# ART
+# ANIMATION
 ## Untitled-Stop Motion
 
 description
