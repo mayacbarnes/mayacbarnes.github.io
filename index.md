@@ -1,1 +1,1 @@
-## [Photography](https://mayacbarnes.github.io/photography.md)
+# [Photography](https://mayacbarnes.github.io/photography)
