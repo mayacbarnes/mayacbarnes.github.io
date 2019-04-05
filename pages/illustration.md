@@ -2,7 +2,7 @@
 
 desc
 
-![Lines](mayacbarnes.github.io/assets/images/swirlies.jpg)
+![Lines](https://mayacbarnes.github.io/assets/images/swirlies.jpg)
 
 ---
 
@@ -10,7 +10,7 @@ desc
 
 desc
 
-![Grid](mayacbarnes.github.io/assets/images/Grid.jpg)
+![Grid](https://mayacbarnes.github.io/assets/images/Grid.jpg)
 
 ---
 
@@ -18,7 +18,7 @@ desc
 
 desc
 
-![Sisters](mayacbarnes.github.io/assets/images/india.jpg)
+![Sisters](https://mayacbarnes.github.io/assets/images/india.jpg)
 
 ---
 
@@ -26,7 +26,7 @@ desc
 
 desc
 
-![geoeye](mayacbarnes.github.io/assets/images/geoeye.jpg)
+![geoeye](https://mayacbarnes.github.io/assets/images/geoeye.jpg)
 
 ---
 
@@ -34,7 +34,7 @@ desc
 
 desc
 
-![Tim](mayacbarnes.github.io/assets/images/Tim.jpg)
+![Tim](https://mayacbarnes.github.io/assets/images/Tim.jpg)
 
 ---
 
@@ -42,7 +42,7 @@ desc
 
 desc
 
-![Women](mayacbarnes.github.io/assets/images/women.jpg)
+![Women](https://mayacbarnes.github.io/assets/images/women.jpg)
 
 ---
 
@@ -50,7 +50,7 @@ desc
 
 desc
 
-![sketches](mayacbarnes.github.io/assets/images/surfacesketches.jpg)
+![sketches](https://mayacbarnes.github.io/assets/images/surfacesketches.jpg)
 
 ---
 
@@ -58,7 +58,7 @@ desc
 
 desc
 
-![Skin](mayacbarnes.github.io/assets/images/mom.jpg)
+![Skin](https://mayacbarnes.github.io/assets/images/mom.jpg)
 
 ---
 
@@ -66,7 +66,7 @@ desc
 
 desc
 
-![Subtractive](mayacbarnes.github.io/assets/imagessubtractivedrawings.jpg)
+![Subtractive](https://mayacbarnes.github.io/assets/imagessubtractivedrawings.jpg)
 
 ---
 
@@ -74,7 +74,7 @@ desc
 
 desc
 
-![Perspective](mayacbarnes.github.io/assets/images/perspective.jpg)
+![Perspective](https://mayacbarnes.github.io/assets/images/perspective.jpg)
 
 ---
 
@@ -82,7 +82,7 @@ desc
 
 desc
 
-![Shout](mayacbarnes.github.io/assets/images/shout.jpg)
+![Shout](https://mayacbarnes.github.io/assets/images/shout.jpg)
 
 ---
 
@@ -90,7 +90,7 @@ desc
 
 desc
 
-![India](mayacbarnes.github.io/assets/images/india.jpg)
+![India](https://mayacbarnes.github.io/assets/images/india.jpg)
 
 ---
 
@@ -98,7 +98,7 @@ desc
 
 desc
 
-![Fish](mayacbarnes.github.io/assets/images/fishprint.jpg)
+![Fish](https://mayacbarnes.github.io/assets/images/fishprint.jpg)
 
 ---
 
@@ -106,7 +106,7 @@ desc
 
 desc
 
-![Orange](mayacbarnes.github.io/assets/images/orange.jpg)
+![Orange](https://mayacbarnes.github.io/assets/images/orange.jpg)
 
 ---
 
@@ -114,6 +114,6 @@ desc
 
 desc
 
-![ink](mayacbarnes.github.io/assets/images/inkstilllife.jpg)
+![ink](https://mayacbarnes.github.io/assets/images/inkstilllife.jpg)
 
 ---
