@@ -67,7 +67,7 @@ desc
 
 desc
 
-![Subtractive](https://mayacbarnes.github.io/assets/imagessubtractivedrawings.jpg)
+![Subtractive](https://mayacbarnes.github.io/assets/images/subtractivedrawings.jpg)
 
 ---
 
@@ -91,7 +91,7 @@ desc
 
 desc
 
-![India](https://mayacbarnes.github.io/assets/images/india.jpg)
+![India](https://mayacbarnes.github.io/assets/images/indiaeye.jpg)
 
 ---
 

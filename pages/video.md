@@ -31,11 +31,3 @@ description
 [![The Gut](http://img.youtube.com/vi/AK2nIfkE668/0.jpg)](http://www.youtube.com/watch?v=AK2nIfkE668)
 
 ---
-
-## The Gut
-
-description
-
-[![The Gut](http://img.youtube.com/vi/wedHQ1siDS8/0.jpg)](http://www.youtube.com/watch?v=wedHQ1siDS8)
-
----
