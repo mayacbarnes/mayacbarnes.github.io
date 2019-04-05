@@ -1,2 +1,2 @@
 # [Photography](https://mayacbarnes.github.io/photography)
-![MayaBarnes](/assets/images/mayabarnesglitch.png)
+![MayaBarnes](assets/images/mayabarnesglitch.png)
