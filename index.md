@@ -2,7 +2,7 @@
 
 [Animation] (https://mayacbarnes.github.io/animation)
 [Video] (https://mayacbarnes.github.io/video)
-[Photography](https://mayacbarnes.github.io/photography)
+[Photography](https://mayacbarnes.github.io/photography.md)
 [Professional Design] (https://mayacbarnes.github.io/ProfessionalDesign)
 [Sounds] (https://mayacbarnes.github.io/sounds)
 [Programming] (https://mayacbarnes.github.io/programming)
