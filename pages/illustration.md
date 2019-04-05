@@ -1,4 +1,13 @@
 # ILLUSTRATION
+
+## Self Portrait
+
+desc
+
+![selfportait](https://mayacbarnes.github.io/assets/images/self.jpeg)
+
+---
+
 ## Untitled Line Study
 
 desc
@@ -52,14 +61,6 @@ desc
 desc
 
 ![sketches](https://mayacbarnes.github.io/assets/images/surfacesketches.jpg)
-
----
-
-## Skin
-
-desc
-
-![Skin](https://mayacbarnes.github.io/assets/images/mom.jpg)
 
 ---
 

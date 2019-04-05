@@ -3,8 +3,9 @@
 
 desc
 
-![Brochure](https://mayacbarnes.github.io/assets/images/hyperloop1.png)
-![Brochure](https://mayacbarnes.github.io/assets/images/hyperloop2.png)
+![Brochure](https://mayacbarnes.github.io/assets/images/hl1.jpg)
+![Brochure](https://mayacbarnes.github.io/assets/images/hl2.jpg)
+
 ---
 
 ## How To Be Perfect - Zine Excerpts
@@ -19,6 +20,6 @@ desc
 
 desc
 
-![anthem](https://mayacbarnes.github.io/assets/images/nationalanthem.png)
+![anthem](https://mayacbarnes.github.io/assets/images/nationaljoe.jpg)
 
 ---
