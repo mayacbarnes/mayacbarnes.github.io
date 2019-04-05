@@ -1,4 +1,4 @@
-![MayaBarnes](mayacbarnes.github.io/assets/images/mayabarnesglitch.png)
+![MayaBarnes](mayacbarnes.github.io/assets/mayabarnesglitch.png)
 
 ## [Animation](https://mayacbarnes.github.io/animation)
 ## [Video](https://mayacbarnes.github.io/video)
