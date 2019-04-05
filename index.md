@@ -9,5 +9,3 @@
 ## [Illustration](https://mayacbarnes.github.io/illustration)
 ## [Sculpture](https://mayacbarnes.github.io/sculpture)
 ## [Performance](https://mayacbarnes.github.io/performance)
-
-![MayaBarnes](mayacbarnes.github.io/assets/mayabarnesglitch.png)
