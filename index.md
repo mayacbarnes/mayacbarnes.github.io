@@ -1,1 +1,1 @@
-# H1 [Photography](https://mayacbarnes.github.io)
+# [Photography](https://mayacbarnes.github.io)
