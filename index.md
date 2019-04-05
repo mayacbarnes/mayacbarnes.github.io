@@ -1,12 +1,11 @@
-
 ![MayaBarnes](mayacbarnes.github.io/assets/images/mayabarnesglitch.png)
 
- [Animation] (https://mayacbarnes.github.io/animation)
- [Video] (https://mayacbarnes.github.io/video)
+[Animation] (https://mayacbarnes.github.io/animation)
+[Video] (https://mayacbarnes.github.io/video)
 [Photography](https://mayacbarnes.github.io/photography)
- [Professional Design] (https://mayacbarnes.github.io/ProfessionalDesign)
- [Sounds] (https://mayacbarnes.github.io/sounds)
+[Professional Design] (https://mayacbarnes.github.io/ProfessionalDesign)
+[Sounds] (https://mayacbarnes.github.io/sounds)
 [Programming] (https://mayacbarnes.github.io/programming)
- [Illustration] (https://mayacbarnes.github.io/illustration)
+[Illustration] (https://mayacbarnes.github.io/illustration)
 [Sculpture] (https://mayacbarnes.github.io/sculpture)
- [Performance] (https://mayacbarnes.github.io/performance)
+[Performance] (https://mayacbarnes.github.io/performance)
