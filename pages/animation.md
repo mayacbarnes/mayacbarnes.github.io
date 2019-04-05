@@ -1,4 +1,7 @@
 # ANIMATION
+
+---
+
 ## Untitled-Stop Motion
 
 Video, Sound Design, Concept: Maya Barnes
@@ -11,6 +14,7 @@ Video, Sound Design, Concept: Maya Barnes
 
 Animation, Audio, Concept: Maya Barnes
 Poem by Lawrence Ferlinghetti, read by Maya Barnes
+
 [![I Am Waiting](http://img.youtube.com/vi/c6vN9_xQ4l4/0.jpg)](http://www.youtube.com/watch?v=c6vN9_xQ4l4)
 
 ---
@@ -20,6 +24,7 @@ Poem by Lawrence Ferlinghetti, read by Maya Barnes
 2D Animation, Editing, Audio Remix, Concept: Maya Barnes
 Created using found footage and AfterEffects
 Original Audio: Dissolve Me - Alt-J
+
 [![Dissolve Me - Remix](http://img.youtube.com/vi/05tuju5Sa50/0.jpg)](http://www.youtube.com/watch?v=05tuju5Sa50)
 
 ---

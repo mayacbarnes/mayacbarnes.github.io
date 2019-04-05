@@ -1,3 +1,7 @@
+# PROGRAMMING
+
+---
+
 Processing Sketches: Maya Barnes
 
 [SoundWave](https://mayacbarnes.github.io/processing/soundwave.html)
@@ -15,3 +19,7 @@ Processing Sketches: Maya Barnes
 [#3D Pattern](https://mayacbarnes.github.io/processing/3dpattern.html)
 
 ---
+
+This website was made in HTML and Markdown through github pages.
+
+Created by Maya Barnes

@@ -1,5 +1,7 @@
 # SCULPTURE
 
+---
+
 ## Forbidden Fruit
 
 Wood, Basketweaving, Concept: Maya Barnes
@@ -18,7 +20,7 @@ Paper-Mache, Acrylic, Concept: Maya Barnes
 ## Bound - Wearable
 
 Cotton, Plastic, Yarn, Hot Glue.
-Wearble 2 Person Piece, Concept: Maya Barnes
+Wearble Two Person Piece, Concept: Maya Barnes
 
 ![zine](https://mayacbarnes.github.io/assets/images/bound.jpg)
 
