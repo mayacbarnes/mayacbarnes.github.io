@@ -1,11 +1,7 @@
-# Works
+# [About](https://mayacbarnes.github.io/about)
 
-## [Animation](https://mayacbarnes.github.io/animation)
-## [Video](https://mayacbarnes.github.io/video)
-## [Photography](https://mayacbarnes.github.io/photography)
-## [Professional Design](https://mayacbarnes.github.io/professionaldesign)
-## [Sounds](https://mayacbarnes.github.io/sounds)
-## [Programming](https://mayacbarnes.github.io/programming)
-## [Illustration](https://mayacbarnes.github.io/illustration)
-## [Sculpture](https://mayacbarnes.github.io/sculpture)
-## [Performance](https://mayacbarnes.github.io/performance)
+---
+
+# Works [_blank](https://mayacbarnes.github.io/navigation)
+
+---
