@@ -1,4 +1,4 @@
-# [About](https://mayacbarnes.github.io/about)
+# About [About](https://mayacbarnes.github.io/about)
 
 ---
 
