@@ -18,6 +18,6 @@ desc
 
 desc
 
-![anthem](https://mayacbarnes.github.io/assets/images/nationalanthem.jpg)
+![anthem](https://mayacbarnes.github.io/assets/images/nationalanthem.png)
 
 ---
