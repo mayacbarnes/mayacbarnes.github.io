@@ -25,7 +25,9 @@ I want to write a lot
 description
 
 [![The Life Cycle of Tea](http://img.youtube.com/vi/XCxFuypxO4Y/0.jpg)](http://www.youtube.com/watch?v=XCxFuypxO4Y)
+
 ---
+
 ## Short and Sweet Tweetums
 
 description
