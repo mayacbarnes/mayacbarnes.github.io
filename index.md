@@ -9,5 +9,5 @@
 ## [Illustration](https://mayacbarnes.github.io/illustration)
 ## [Sculpture](https://mayacbarnes.github.io/sculpture)
 ## [Performance](https://mayacbarnes.github.io/performance)
-<img src = "/assets/mayabarnesglitch.png" alt="Me!"
+<img src = "https://mayacbarnes.github.io/assets/mayabarnesglitch.png" alt="Me!"
   title="Me, Maya glitched with Processing" width"722" height ="854"/>
