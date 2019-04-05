@@ -8,13 +8,15 @@ OR
 
 ## I Am Waiting
 
-description
+description: I wanna write a bunch of stuff about this piece
 
 [![I Am Waiting](http://img.youtube.com/vi/c6vN9_xQ4l4/0.jpg)](http://www.youtube.com/watch?v=c6vN9_xQ4l4)
 
 ## Dissolve Me - Remix
 
-description
+description:
+
+I want to write a lot
 
 [![Dissolve Me - Remix](http://img.youtube.com/vi/05tuju5Sa50/0.jpg)](http://www.youtube.com/watch?v=05tuju5Sa50)
 
