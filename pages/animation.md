@@ -92,7 +92,7 @@ Animation, Concept: Maya Barnes
 Animation: Maya Barnes
 
 [![Bouncing Ball](http://img.youtube.com/vi/rBmZsRlSM_A/0.jpg)](http://www.youtube.com/watch?v=rBmZsRlSM_A)
-
+2018
 ---
 
 ## GIFS
@@ -100,7 +100,7 @@ Animation: Maya Barnes
 [Typography in Richmond](https://mayacbarnes.github.io/assets/images/Barnes_MayaGIF.gif)
 
 Images and Gif: Maya Barnes
-
+2018
 ---
 
 # Glitch GIFS
