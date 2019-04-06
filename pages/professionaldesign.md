@@ -12,6 +12,7 @@ Graphic Design: Maya Barnes
 ![Brochure](https://mayacbarnes.github.io/assets/images/hl2.jpg)
 
 2019
+
 ---
 
 ## How To Be Perfect - Zine Excerpts
@@ -23,6 +24,7 @@ Zine, Drawings, Poem, and Photographs: Maya Barnes
 ![zine](https://mayacbarnes.github.io/assets/images/zine.jpg)
 
 2018
+
 ---
 
 ## National Anthem Cover Art
@@ -35,4 +37,5 @@ Photograph: CC
 ![anthem](https://mayacbarnes.github.io/assets/images/nationaljoe.jpg)
 
 2019
+
 ---

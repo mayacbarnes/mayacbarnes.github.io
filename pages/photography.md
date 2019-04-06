@@ -11,6 +11,7 @@ Model: Catherine Barnes
 ![Skin](https://mayacbarnes.github.io/assets/images/mom.jpg)
 
 2017
+
 ---
 
 ## Warhol
