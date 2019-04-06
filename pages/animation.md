@@ -86,3 +86,9 @@ Animation, Concept: Maya Barnes
 Animation: Maya Barnes
 
 [![Bouncing Ball](http://img.youtube.com/vi/rBmZsRlSM_A/0.jpg)](http://www.youtube.com/watch?v=rBmZsRlSM_A)
+
+---
+
+## GIFS
+
+[Typography in Richmond](https://mayacbarnes.github.io/assets/images/Barnes_MayaGIF.gif)
