@@ -103,9 +103,11 @@ Images and Gif: Maya Barnes
 
 ---
 
-Glitch GIFS
-images via google
+# Glitch GIFS
 
+
+images via google
+Glitch Created by Editing Source Code
 Gif and Glitch: Maya Barnes
 
 [Beheaded](https://mayacbarnes.github.io/assets/images/beheaded.gif)
