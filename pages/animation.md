@@ -91,4 +91,21 @@ Animation: Maya Barnes
 
 ## GIFS
 
-[Typography in Richmond](https://mayacbarnes.github.io/assets/images/Barnes_MayaGIF.gif)
+[Typography in Richmond](https://mayacbarnes.github.io/assets/images/Barnes_MayaGIF.gif) Images and Gif: Maya Barnes
+
+---
+
+Glitch GIFS
+
+images via google
+Gif and Glitch: Maya Barnes
+
+[Beheaded](https://mayacbarnes.github.io/assets/images/beheaded.gif)
+
+[Prometheus](https://mayacbarnes.github.io/assets/images/prometheus)
+
+[ShipWrecked](https://mayacbarnes.github.io/assets/images/shipwrecked.gif)
+
+[Marble](https://mayacbarnes.github.io/assets/images/marble.gif)
+
+[Marcus Aurelius](https://mayacbarnes.github.io/assets/images/marcusaurelius.gif)
