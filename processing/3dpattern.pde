@@ -18,29 +18,28 @@ void setup(){
 
 void draw(){
   background(255);
- // pushMatrix();
- //translate(0,height/2);
-// rotateY(radians(mouseX));
+
+
   for(x=0;x<width;x=x+70){
     for(y=0;y<height;y=y+70){
   pushMatrix();
-  
+
   translate(x,y);
   rotateX(radians(rot));
  rotateY(radians(rot));
  rotateZ(radians(rot));
-  //strokeWeight(random(1,20));
+
   stroke(r);
   strokeWeight(4);
- // rect(0,0,40,40);
+
  box(80,110,1500);
-  
+
   popMatrix();
- 
-  
+
+
     }
   }
-   // popMatrix();
+
   rot=rot+.2;
   colorFade();
   sw=r;
