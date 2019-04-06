@@ -13,6 +13,7 @@ Video, Sound Design, Concept: Maya Barnes
 ## I Am Waiting
 
 Animation, Audio, Concept: Maya Barnes
+
 Poem by Lawrence Ferlinghetti, read by Maya Barnes
 
 [![I Am Waiting](http://img.youtube.com/vi/c6vN9_xQ4l4/0.jpg)](http://www.youtube.com/watch?v=c6vN9_xQ4l4)
@@ -22,7 +23,9 @@ Poem by Lawrence Ferlinghetti, read by Maya Barnes
 ## Dissolve Me - Remix
 
 2D Animation, Editing, Audio Remix, Concept: Maya Barnes
+
 Created using found footage and AfterEffects
+
 Original Audio: Dissolve Me - Alt-J
 
 [![Dissolve Me - Remix](http://img.youtube.com/vi/05tuju5Sa50/0.jpg)](http://www.youtube.com/watch?v=05tuju5Sa50)
@@ -32,6 +35,7 @@ Original Audio: Dissolve Me - Alt-J
 ## The Life Cycle of Tea
 
 Stop Motion, Sound Design, Concept: Maya Barnes
+
 Original Audio: Alan Watts
 
 [![The Life Cycle of Tea](http://img.youtube.com/vi/XCxFuypxO4Y/0.jpg)](http://www.youtube.com/watch?v=XCxFuypxO4Y)
@@ -49,6 +53,7 @@ Original Audio: Alan Watts
 ## Classique
 
 Animation, Concept: Maya Barnes
+
 Created using appropriated footage, Animated in AfterEffects.
 
 [![Classique](http://img.youtube.com/vi/2T-MKKwH150/0.jpg)](http://www.youtube.com/watch?v=2T-MKKwH150)
@@ -67,6 +72,7 @@ Animation, Concept, Sound Design: Maya Barnes
 ## Time Lapse
 
 Animation, Concept: Maya Barnes
+
 Created over the course of a semester, taking one photo a day.
 
 [![Time Lapse](http://img.youtube.com/vi/0fEkQxtIKUw/0.jpg)](http://www.youtube.com/watch?v=0fEkQxtIKUw)
@@ -98,6 +104,7 @@ Animation: Maya Barnes
 Glitch GIFS
 
 images via google
+
 Gif and Glitch: Maya Barnes
 
 [Beheaded](https://mayacbarnes.github.io/assets/images/beheaded.gif)
