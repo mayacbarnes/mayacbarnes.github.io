@@ -110,7 +110,7 @@ Gif and Glitch: Maya Barnes
 
 [Beheaded](https://mayacbarnes.github.io/assets/images/beheaded.gif)
 
-[Prometheus](https://mayacbarnes.github.io/assets/images/prometheus)
+[Prometheus](https://mayacbarnes.github.io/assets/images/prometheus.gif)
 
 [ShipWrecked](https://mayacbarnes.github.io/assets/images/shipwrecked.gif)
 
