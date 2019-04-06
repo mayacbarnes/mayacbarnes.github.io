@@ -7,6 +7,7 @@
 Painting, Concept: Maya Barnes
 
 ![selfportait](https://mayacbarnes.github.io/assets/images/self.jpeg)
+
 2019
 ---
 
@@ -15,6 +16,7 @@ Painting, Concept: Maya Barnes
 Ink: Maya Barnes
 
 ![Lines](https://mayacbarnes.github.io/assets/images/swirlies.jpg)
+
 2019
 ---
 
@@ -23,6 +25,7 @@ Ink: Maya Barnes
 Ink: Maya Barnes
 
 ![Grid](https://mayacbarnes.github.io/assets/images/Grid.jpg)
+
 2019
 ---
 
@@ -30,6 +33,7 @@ Ink: Maya Barnes
 
 Graphite and Charcoal: Maya Barnes
 ![Sisters](https://mayacbarnes.github.io/assets/images/india.jpg)
+
 2017
 ---
 
@@ -38,6 +42,7 @@ Graphite and Charcoal: Maya Barnes
 Lino Print: Maya Barnes
 
 ![geoeye](https://mayacbarnes.github.io/assets/images/geoeye.jpg)
+
 2017
 ---
 
@@ -46,6 +51,7 @@ Lino Print: Maya Barnes
 Graphite: Maya Barnes
 
 ![Tim](https://mayacbarnes.github.io/assets/images/Tim.jpg)
+
 2018
 ---
 
@@ -54,6 +60,7 @@ Graphite: Maya Barnes
 Acrylic: Maya Barnes
 
 ![Women](https://mayacbarnes.github.io/assets/images/women.jpg)
+
 2017
 ---
 
@@ -62,6 +69,7 @@ Acrylic: Maya Barnes
 Ink Sketches of Emotions: Maya Barnes
 
 ![sketches](https://mayacbarnes.github.io/assets/images/surfacesketches.jpg)
+
 2019
 ---
 
@@ -72,6 +80,7 @@ Created using graphite powder and erasing away forms.
 Drawing: Maya Barnes
 
 ![Subtractive](https://mayacbarnes.github.io/assets/images/subtractivedrawings.jpg)
+
 2018
 ---
 
@@ -80,6 +89,7 @@ Drawing: Maya Barnes
 Prismacolor Illustration: Maya Barnes
 
 ![Perspective](https://mayacbarnes.github.io/assets/images/perspective.jpg)
+
 2016
 ---
 
@@ -88,6 +98,7 @@ Prismacolor Illustration: Maya Barnes
 Prismacolor Illustration: Maya Barnes
 
 ![Shout](https://mayacbarnes.github.io/assets/images/shout.jpg)
+
 2016
 ---
 
@@ -97,6 +108,8 @@ Graphite Illustration: Maya Barnes
 Model: India Williamson
 
 ![India](https://mayacbarnes.github.io/assets/images/indiaeye.jpg)
+
+
 2016
 ---
 
@@ -106,6 +119,7 @@ Created using real fish!
 Print: Maya Barnes
 
 ![Fish](https://mayacbarnes.github.io/assets/images/fishprint.jpg)
+
 2016
 ---
 
@@ -114,6 +128,7 @@ Print: Maya Barnes
 Prismacolor Illustration: Maya Barnes
 
 ![Orange](https://mayacbarnes.github.io/assets/images/orange.jpg)
+
 2016
 ---
 
@@ -122,5 +137,6 @@ Prismacolor Illustration: Maya Barnes
 Ink and Water: Maya Barnes
 
 ![ink](https://mayacbarnes.github.io/assets/images/inkstilllife.jpg)
+
 2018
 ---
