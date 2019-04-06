@@ -97,12 +97,13 @@ Animation: Maya Barnes
 
 ## GIFS
 
-[Typography in Richmond](https://mayacbarnes.github.io/assets/images/Barnes_MayaGIF.gif) Images and Gif: Maya Barnes
+[Typography in Richmond](https://mayacbarnes.github.io/assets/images/Barnes_MayaGIF.gif)
+
+Images and Gif: Maya Barnes
 
 ---
 
 Glitch GIFS
-
 images via google
 
 Gif and Glitch: Maya Barnes
