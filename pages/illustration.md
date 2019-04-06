@@ -29,7 +29,6 @@ Ink: Maya Barnes
 ## Little Sisters
 
 Graphite and Charcoal: Maya Barnes
-
 ![Sisters](https://mayacbarnes.github.io/assets/images/india.jpg)
 
 ---
@@ -58,9 +57,9 @@ Acrylic: Maya Barnes
 
 ---
 
-## Untitled Sketches
+## Emotion Sketches
 
-desc
+Ink Sketches of Emotions: Maya Barnes
 
 ![sketches](https://mayacbarnes.github.io/assets/images/surfacesketches.jpg)
 
@@ -68,7 +67,9 @@ desc
 
 ## Subtractive Still Lives
 
-desc
+Created using graphite powder and erasing away forms.
+
+Drawing: Maya Barnes
 
 ![Subtractive](https://mayacbarnes.github.io/assets/images/subtractivedrawings.jpg)
 
@@ -76,7 +77,7 @@ desc
 
 ## Perspective Study
 
-desc
+Prismacolor Illustration: Maya Barnes
 
 ![Perspective](https://mayacbarnes.github.io/assets/images/perspective.jpg)
 
@@ -84,7 +85,7 @@ desc
 
 ## Shout
 
-desc
+Prismacolor Illustration: Maya Barnes
 
 ![Shout](https://mayacbarnes.github.io/assets/images/shout.jpg)
 
@@ -92,7 +93,8 @@ desc
 
 ## India
 
-desc
+Graphite Illustration: Maya Barnes
+Model: India Williamson
 
 ![India](https://mayacbarnes.github.io/assets/images/indiaeye.jpg)
 
@@ -100,7 +102,8 @@ desc
 
 ## Swimming with the Fishes - Print
 
-desc
+Created using real fish!
+Print: Maya Barnes
 
 ![Fish](https://mayacbarnes.github.io/assets/images/fishprint.jpg)
 
@@ -108,7 +111,7 @@ desc
 
 ## Orange Study
 
-desc
+Prismacolor Illustration: Maya Barnes
 
 ![Orange](https://mayacbarnes.github.io/assets/images/orange.jpg)
 
@@ -116,7 +119,7 @@ desc
 
 ## Untitled Still Life
 
-desc
+Ink and Water: Maya Barnes
 
 ![ink](https://mayacbarnes.github.io/assets/images/inkstilllife.jpg)
 

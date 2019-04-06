@@ -19,7 +19,8 @@ Paper-Mache, Acrylic, Concept: Maya Barnes
 ---
 ## Bound - Wearable
 
-Cotton, Plastic, Yarn, Hot Glue.
+Cotton, Plastic, Yarn, Hot Glue
+
 Wearble Two Person Piece, Concept: Maya Barnes
 
 ![zine](https://mayacbarnes.github.io/assets/images/bound.jpg)
@@ -27,7 +28,7 @@ Wearble Two Person Piece, Concept: Maya Barnes
 ---
 ## Sunshine
 
-Self Portrait on Vinyl, Concept: Maya Barnes
+Self Portrait on Vinyl: Maya Barnes
 
 ![sun](https://mayacbarnes.github.io/assets/images/DrawingFinalproj.jpg)
 

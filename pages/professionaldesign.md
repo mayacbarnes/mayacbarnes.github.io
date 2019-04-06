@@ -4,7 +4,7 @@
 
 ## Hyperloop Brochure
 
-Brochure for VCUengineering's HyperLoop Team.
+Brochure for VCU Engineering's HyperLoop Team.
 
 Graphic Design: Maya Barnes
 
@@ -26,7 +26,7 @@ Zine, Drawings, Poem, and Photographs: Maya Barnes
 ## National Anthem Cover Art
 
 Cover art for The Bruises
-Design: Maya Barnes
+Design and Editing: Maya Barnes
 
 Photograph: CC
 

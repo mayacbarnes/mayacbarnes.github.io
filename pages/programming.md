@@ -1,8 +1,8 @@
 # PROGRAMMING
 
----
-
 Processing Sketches: Maya Barnes
+
+---
 
 [SoundWave](https://mayacbarnes.github.io/processing/soundwave.html)
 
@@ -16,7 +16,7 @@ Processing Sketches: Maya Barnes
 
 ---
 
-[#3D Pattern](https://mayacbarnes.github.io/processing/3dpattern.html)
+[3D Pattern](https://mayacbarnes.github.io/processing/3dpattern.html)
 
 ---
 
