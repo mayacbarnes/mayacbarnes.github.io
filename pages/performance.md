@@ -4,7 +4,7 @@
 
 ## Untitled Sound Performance
 
-Instruments, Contact Microphones, and Concept: Maya Barnes and Emily Hall
+Instruments, Homemade Contact Microphones, and Concept: Maya Barnes and Emily Hall
 
 Documentation: Claire Zitzow
 
