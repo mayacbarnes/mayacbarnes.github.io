@@ -41,6 +41,19 @@ Model: Brandon Langley
 
 ---
 
+## The Gut
+
+Created using found footage
+
+Video, Concept: Maya Barnes
+
+
+[![Remix](http://img.youtube.com/vi/7ZVdELvY8XE/0.jpg)](http://www.youtube.com/watch?v=7ZVdELvY8XE)
+
+2019
+
+---
+
 ## Breakup Songs
 
 Created using a montage of 'breakup songs' to simulate the process of a breakup.
@@ -48,6 +61,18 @@ Created using a montage of 'breakup songs' to simulate the process of a breakup.
 Video, Footage, Concept: Maya Barnes
 
 [![Breakup Songs](http://img.youtube.com/vi/AK2nIfkE668/0.jpg)](http://www.youtube.com/watch?v=AK2nIfkE668)
+
+2019
+
+---
+
+## Descent
+
+
+Video, Concept, Audio: Maya Barnes
+
+
+[![Descent](http://img.youtube.com/vi/0TqK0F6XVVQ/0.jpg)](http://www.youtube.com/watch?v=0TqK0F6XVVQ)
 
 2019
 
