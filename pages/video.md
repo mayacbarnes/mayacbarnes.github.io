@@ -6,6 +6,7 @@
 ## Voices
 
 Video, Editing, Footage, Concept: Maya Barnes
+
 Model: Emily Hall
 
 [![Voices](http://img.youtube.com/vi/UE1jgQYh6sk/0.jpg)](http://www.youtube.com/watch?v=UE1jgQYh6sk)
