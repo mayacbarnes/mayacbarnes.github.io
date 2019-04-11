@@ -41,7 +41,7 @@ Model: Brandon Langley
 
 ---
 
-## The Gut
+## Remix
 
 Created using found footage
 
