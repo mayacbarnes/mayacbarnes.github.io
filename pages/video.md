@@ -62,8 +62,6 @@ Concept, Video, Sound: Maya Barnes
 Video, Footage, Concept: Maya Barnes
 Poem written and read by Maya Barnes
 
-Model: Brandon Langley
-
 [![The Gut](http://img.youtube.com/vi/wedHQ1siDS8/0.jpg)](http://www.youtube.com/watch?v=wedHQ1siDS8)
 
 2019
