@@ -25,6 +25,8 @@ Video, Editing, Footage, Concept: Maya Barnes
 
 Video, Editing, Footage, Concept: Maya Barnes
 
+Piece created to critique the nature of the male gaze and its impact on women. 
+
 [![Sheila](https://i.ytimg.com/an_webp/mjvJFUroZ0E/mqdefault_6s.webp?du=3000&sqp=CIWQ94MG&rs=AOn4CLBAYEcnlUe-vPR1QdoTfNqMP74-Xw)](https://www.youtube.com/watch?v=mjvJFUroZ0E)
 
 2019
