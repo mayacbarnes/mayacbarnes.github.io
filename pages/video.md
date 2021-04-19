@@ -57,14 +57,24 @@ Concept, Video, Sound: Maya Barnes
 
 ---
 
-## Remix
 
-Created using found footage
+## Voices
 
-Video, Concept: Maya Barnes
+Video, Editing, Footage, Sound, Concept: Maya Barnes
 
+Model: Emily Hall
 
-[![Remix](https://i.ytimg.com/an_webp/7ZVdELvY8XE/mqdefault_6s.webp?du=3000&sqp=COys94MG&rs=AOn4CLCnv_FoTNmBjjKjafl-JMtblvTCVw)](http://www.youtube.com/watch?v=7ZVdELvY8XE)
+[![Voices](https://i.ytimg.com/an_webp/UE1jgQYh6sk/mqdefault_6s.webp?du=3000&sqp=CO-O94MG&rs=AOn4CLD-Gd-tXBNK0a8PoiaewwEbQVCx-Q)](http://www.youtube.com/watch?v=UE1jgQYh6sk)
+
+2018
+
+---
+
+## Untitled 2019
+
+Video, Editing, Footage, Sound, Concept: Maya Barnes
+
+[![Remix](https://i.ytimg.com/an_webp/JL62m8DfQsU/mqdefault_6s.webp?du=3000&sqp=COW294MG&rs=AOn4CLB1tsyezo6m2LcqIHjDdOwFwPRsCg)](https://www.youtube.com/watch?v=JL62m8DfQsU&t=76s)
 
 2019
 
