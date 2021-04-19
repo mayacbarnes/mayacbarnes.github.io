@@ -60,13 +60,11 @@ Concept, Video, Sound: Maya Barnes
 ---
 
 
-## Voices
+## Remix
 
 Video, Editing, Footage, Sound, Concept: Maya Barnes
 
-Model: Emily Hall
-
-[![Voices](https://i.ytimg.com/an_webp/UE1jgQYh6sk/mqdefault_6s.webp?du=3000&sqp=CO-O94MG&rs=AOn4CLD-Gd-tXBNK0a8PoiaewwEbQVCx-Q)](http://www.youtube.com/watch?v=UE1jgQYh6sk)
+[![Remix](https://i.ytimg.com/an_webp/7ZVdELvY8XE/mqdefault_6s.webp?du=3000&sqp=COys94MG&rs=AOn4CLCnv_FoTNmBjjKjafl-JMtblvTCVw)](https://www.youtube.com/watch?v=7ZVdELvY8XE)
 
 2018
 
