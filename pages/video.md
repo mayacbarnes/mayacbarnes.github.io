@@ -37,7 +37,7 @@ Video, Editing, Footage, Concept: Maya Barnes
 
 Model: Emily Hall
 
-[![Voices](http://img.youtube.com/vi/UE1jgQYh6sk/0.jpg)](http://www.youtube.com/watch?v=UE1jgQYh6sk)
+[![Voices](https://i.ytimg.com/an_webp/UE1jgQYh6sk/mqdefault_6s.webp?du=3000&sqp=CO-O94MG&rs=AOn4CLD-Gd-tXBNK0a8PoiaewwEbQVCx-Q)](http://www.youtube.com/watch?v=UE1jgQYh6sk)
 
 2018
 
@@ -51,18 +51,7 @@ Created using found footage.
 Concept, Video, Sound: Maya Barnes
 
 
-[![Moving Memories](http://img.youtube.com/vi/6lAVzRQlySU/0.jpg)](http://www.youtube.com/watch?v=6lAVzRQlySU)
-
-2019
-
----
-
-## The Gut
-
-Video, Footage, Concept: Maya Barnes
-Poem written and read by Maya Barnes
-
-[![The Gut](http://img.youtube.com/vi/wedHQ1siDS8/0.jpg)](http://www.youtube.com/watch?v=wedHQ1siDS8)
+[![Moving Memories](https://i.ytimg.com/an_webp/6lAVzRQlySU/mqdefault_6s.webp?du=3000&sqp=CN6B94MG&rs=AOn4CLA-stV0UpcukmAuzJW85zWqcv1lFA)](http://www.youtube.com/watch?v=6lAVzRQlySU)
 
 2019
 
@@ -75,7 +64,7 @@ Created using found footage
 Video, Concept: Maya Barnes
 
 
-[![Remix](http://img.youtube.com/vi/7ZVdELvY8XE/0.jpg)](http://www.youtube.com/watch?v=7ZVdELvY8XE)
+[![Remix](https://i.ytimg.com/an_webp/7ZVdELvY8XE/mqdefault_6s.webp?du=3000&sqp=COys94MG&rs=AOn4CLCnv_FoTNmBjjKjafl-JMtblvTCVw)](http://www.youtube.com/watch?v=7ZVdELvY8XE)
 
 2019
 
@@ -87,7 +76,7 @@ Created using a montage of 'breakup songs' to simulate the process of a breakup.
 
 Video, Footage, Concept: Maya Barnes
 
-[![Breakup Songs](http://img.youtube.com/vi/AK2nIfkE668/0.jpg)](http://www.youtube.com/watch?v=AK2nIfkE668)
+[![Breakup Songs](https://i.ytimg.com/an_webp/AK2nIfkE668/mqdefault_6s.webp?du=3000&sqp=COGv94MG&rs=AOn4CLB9-swO02ieO_hkT0Jxvq_lQCcDcQ)](http://www.youtube.com/watch?v=AK2nIfkE668)
 
 2019
 
