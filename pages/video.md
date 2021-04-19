@@ -82,14 +82,3 @@ Video, Footage, Concept: Maya Barnes
 
 ---
 
-## Descent
-
-
-Video, Concept, Audio: Maya Barnes
-
-
-[![Descent](http://img.youtube.com/vi/0TqK0F6XVVQ/0.jpg)](http://www.youtube.com/watch?v=0TqK0F6XVVQ)
-
-2019
-
----
